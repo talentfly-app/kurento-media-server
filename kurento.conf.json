@@ -26,7 +26,7 @@
         "//": "Maximum queue length of pending connections (see sysctl tcp_max_syn_backlog)",
         "//": "Default SOMAXCONN (128)",
         "//connqueue": 128,
-        "path": "kurento",
+        "path": "",
         "threads": 10
       }
     }
